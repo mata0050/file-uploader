@@ -1,2 +1,7 @@
+# Dependency directories
 node_modules/
 public
+
+
+# dotenv environment variables file
+.env
